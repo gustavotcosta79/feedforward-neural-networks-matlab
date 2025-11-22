@@ -88,28 +88,27 @@ Images are automatically processed by the `convertImage_*.m` functions.
 ```matlab
 cd scripts
 train_start_a
+```
 
-Sem problema. Aqui tens o restante do conteúdo, começando exatamente na Part B até ao final do documento.
-
-Podes copiar este bloco e colar logo após a secção "Part A" que já tens.
-
-Markdown
 
 **Part B - Full Training (Train)**
 ```matlab
 cd scripts
 train_train_b
+```
 
 **Part C - Testing & Advanced Evaluation
-```cd scripts
+```
+cd scripts
 train_test_c_i      
 train_test_c_ii     
 train_all_c_iii
-
+```
 **Part D - Hand-Drawn Test
-```cd scripts
+```
+cd scripts
 test_draw_d
-
+```
 ### 3. GUI Application
 Run `scripts/app.mlapp` in MATLAB App Designer for an interactive graphical interface.
 
